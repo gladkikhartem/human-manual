@@ -33,6 +33,8 @@ github_username:  gladkikhartem
 theme: minima
 plugins:
   - jekyll-feed
+disqus:
+  shortname: humanmanual
 
 # Exclude from processing.
 # The following items will not be processed, by default.
