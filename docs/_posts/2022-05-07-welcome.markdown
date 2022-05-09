@@ -25,3 +25,4 @@ You don't know what you're capable of if use your potential at it's full capacit
 ## Thing you can to start doing
 - [Eat regularly during daylight hours]({{ site.baseurl }}{% link _posts/2022-05-08-eat-regularly.markdown %})
 - [Go to sleep at 10-11 AM]({{ site.baseurl }}{% link _posts/2022-05-09-go-to-sleep-at-10-11-pm.markdown %})
+- [Eat soluble fiber at the beginning of your life]({{ site.baseurl }}{% link _posts/2022-05-09-soluble-fiber.markdown %})
