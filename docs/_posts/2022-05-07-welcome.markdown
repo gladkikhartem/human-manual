@@ -30,4 +30,4 @@ But **it's never late for us to change!**
 - [Go to sleep at 10-11 AM]({{ site.baseurl }}{% link _posts/2022-05-09-go-to-sleep-at-10-11-pm.markdown %})
 - [Eat soluble fiber at the beginning of your life]({{ site.baseurl }}{% link _posts/2022-05-09-soluble-fiber.markdown %})
 - [Live in green places]({{ site.baseurl }}{% link _posts/2022-05-09-live-in-green-places.markdown %})
-- [Drink tea]]({{ site.baseurl }}{% link _posts/2022-05-09-drink-tea.markdown %})
+- [Drink tea]({{ site.baseurl }}{% link _posts/2022-05-09-drink-tea.markdown %})
