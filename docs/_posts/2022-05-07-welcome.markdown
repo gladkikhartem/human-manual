@@ -18,7 +18,6 @@ Every your ancestor has survived and suceeeded in the harshest environments of t
 You are capable of incredible things that you can't even imagine.
 You don't know what you're capable of if use your potential at it's full capacity.
 
-
 ## Things you can stop doing
 - [Stupid things you already know you shouldn't be doing](https://www.youtube.com/watch?v=sLXbqFQ3ios)
 
@@ -26,3 +25,5 @@ You don't know what you're capable of if use your potential at it's full capacit
 - [Eat regularly during daylight hours]({{ site.baseurl }}{% link _posts/2022-05-08-eat-regularly.markdown %})
 - [Go to sleep at 10-11 AM]({{ site.baseurl }}{% link _posts/2022-05-09-go-to-sleep-at-10-11-pm.markdown %})
 - [Eat soluble fiber at the beginning of your life]({{ site.baseurl }}{% link _posts/2022-05-09-soluble-fiber.markdown %})
+- [Live in green places]({{ site.baseurl }}{% link _posts/2022-05-09-live-in-green-places.markdown %})
+- [Drink tea]]({{ site.baseurl }}{% link _posts/2022-05-09-drink-tea.markdown %})

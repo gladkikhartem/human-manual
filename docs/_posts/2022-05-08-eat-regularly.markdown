@@ -8,6 +8,7 @@ permalink: /eat-regularly
 
 
 [Source](https://neurosciencenews.com/diet-longevity-20531/)
+[Another Related Research](https://neurosciencenews.com/longevity-diet-20491/)
 
 ### Short description
 Intermittent fasting and eating at regular hours during the day leads to 30% longer life.
@@ -26,4 +27,8 @@ The fasting hours are based on your circadian rhytms and when they are constant 
 If you are not going to sleep & waking up at the same hours - it will be hard to eat at the same times relative to your circadian rhythms.
 
 
+### Proposed diet by [Another Related Research](https://neurosciencenews.com/longevity-diet-20491/)
+(Since today being vegan is very popular - a lot of researches promoting veganism made today are subject to cognitive biases. I'm not saying that they are false. Just be thoughtful. The diet science is not that simple & can very person-dependant. It's better to rely on your feeling and competence, rather than bluntly apply some diet ignoring side-effects you observe at the first days/weeks of it)
+
+“Lots of legumes, whole grains, and vegetables; some fish; no red meat or processed meat and very low white meat; low sugar and refined grains; good levels of nuts and olive oil, and some dark chocolate.”
 

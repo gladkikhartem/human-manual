@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Drink Tea"
+date:   2022-05-07 21:54:32 +0300
+categories: start-doing
+permalink: /drink-tea
+---
+
+
+[Source](https://neurosciencenews.com/tes-cognition-20482/)
+
+### Short description
+Drinking 1-2 cups a day could significantly reduce risk of vascular dementia and potentially Alzheimer’s disease
+It also reduces risk of death by 1.5%  and probability of having a stroke by 4%.
+
+
+### Conclusion
+Drink tea :)
