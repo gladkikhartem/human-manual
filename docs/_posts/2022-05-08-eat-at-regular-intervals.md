@@ -16,12 +16,11 @@ You are already equipped with everything that you need:
 
 This **Human Manual** will help you to manage this incredible machine in a way that will make life better for you and everyone around you. 
 
-## Things you need to stop doing
-Just sit and think through what is the stupidies thing in your opinion that is you're doing, that you can stop doing and you willing to stop it. And then stop it.
-It doesn't matter how small this thing is.
+## Things you can stop doing
+- [Stupid things you already know you shouldn't be doing](https://www.youtube.com/watch?v=sLXbqFQ3ios)
 
-## Thing you need to start doing
-- Eat in the morning
-- Eat during daylight 
-- Do regular physical activity
+Just sit and think through what is the stupidies thing in your opinion that you're doing, that you can stop doing and you willing to stop it. And then stop doing it.
+
+## Thing you can to start doing
+- Eat at at regular times during daylight
 - ...
