@@ -36,6 +36,16 @@ plugins:
   - jekyll-feed
 disqus:
   shortname: humanmanual
+minima:
+  skin: dark
+  social_links:
+    twitter: https://twitter.com/co_artem
+    github: https://github.com/gladkikhartem
+    linkedin: https://www.linkedin.com/in/artem-gladkikh-475862150/
+
+# youtube: jekyll
+# youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+# youtube_channel_name: CloudCannon
 
 # Exclude from processing.
 # The following items will not be processed, by default.
