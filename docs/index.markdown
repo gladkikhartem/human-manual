@@ -25,8 +25,8 @@ Here's the list of things can help you. Just pick a few that you like and try th
 ## Thing you can to start doing
 <div class="datatable-begin"></div>
 
-Practice    | Cognitive Improvment | Lifespan | Mood | Cardiovascular improvem ent |
-------- | ------------------------------------- | -------- | -----------
+Practice    | Cognitive Improvment | Lifespan | Mood | Cardiovascular improvem ent 
+-------     | -------------------- | -------- | ---- | ------
 [Eat regularly during daylight hours]({{ site.baseurl }}{% link _posts/2022-05-08-eat-regularly.markdown %})             |       | +30%  |      |  
 [Go to sleep at 10-11 AM]({{ site.baseurl }}{% link _posts/2022-05-09-go-to-sleep-at-10-11-pm.markdown %})               |       |       |      | +25%
 [Eat soluble fiber at the beginning of your life]({{ site.baseurl }}{% link _posts/2022-05-09-soluble-fiber.markdown %}) | +4-6% |       |      |   
