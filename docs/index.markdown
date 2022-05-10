@@ -25,11 +25,12 @@ Here's the list of things can help you. Just pick a few that you like and try th
 ## Thing you can to start doing
 <div class="datatable-begin"></div>
 
-Practice    | Cognitive Improvment | Lifespan | Mood | Cardiovascular improvem ent 
--------     | -------------------- | -------- | ---- | ------
-[Eat regularly during daylight hours]({{ site.baseurl }}{% link _posts/2022-05-08-eat-regularly.markdown %})             |       | +30%  |      |  
-[Go to sleep at 10-11 AM]({{ site.baseurl }}{% link _posts/2022-05-09-go-to-sleep-at-10-11-pm.markdown %})               |       |       |      | +25%
-[Eat soluble fiber at the beginning of your life]({{ site.baseurl }}{% link _posts/2022-05-09-soluble-fiber.markdown %}) | +4-6% |       |      |   
-[Live in green places]({{ site.baseurl }}{% link _posts/2022-05-09-live-in-green-places.markdown %})                     |  +5%  |       |  +   |   
-[Drink tea]({{ site.baseurl }}{% link _posts/2022-05-09-drink-tea.markdown %})                                           | +1.5% |       |      | +5%
+Practice                                                                                                                 | Cognitive Improvment | Lifespan | Mood | Cardiovascular improvement
+------------------------------------------------------------------------------------------------------------------------ | -------------------- | -------- | ---- | --------------------------
+[Eat regularly during daylight hours]({{ site.baseurl }}{% link _posts/2022-05-08-eat-regularly.markdown %})             |                      | +30%     |      |  
+[Go to sleep at 10-11 AM]({{ site.baseurl }}{% link _posts/2022-05-09-go-to-sleep-at-10-11-pm.markdown %})               |                      |          |      | +25%
+[Eat soluble fiber at the beginning of your life]({{ site.baseurl }}{% link _posts/2022-05-09-soluble-fiber.markdown %}) | +4-6%                |          |      |   
+[Live in green places]({{ site.baseurl }}{% link _posts/2022-05-09-live-in-green-places.markdown %})                     |  +5%                 |          |  +   |   
+[Drink tea]({{ site.baseurl }}{% link _posts/2022-05-09-drink-tea.markdown %})                                           | +1.5%                |          |      | +5%
+
 <div class="datatable-end"></div>
