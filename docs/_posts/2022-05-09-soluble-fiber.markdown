@@ -19,6 +19,7 @@ Higher IQ associated in substantial improvements in well-being, social status, s
 
 More soluble fiber -> More Bacteoidetes -> higher IQ levels -> better well being of your child's future.
 
+"Factors that positively influence gut microbiota composition in infants include breastfeeding, having a high-fibre diet, living with a dog and being exposed to nature and green spaces"
 
 ### Conclusion
 By slightly adjusting your clild's diet you should be able improve his future life substantially.
