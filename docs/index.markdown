@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+datatable: true
 ---
 
 This **Human Manual** is a collection of practices that can improve your health, unleash your potential and make you a better, full-fledged human being.
