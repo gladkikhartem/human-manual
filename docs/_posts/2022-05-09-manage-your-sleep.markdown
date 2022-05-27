@@ -28,7 +28,7 @@ When you become smarter and more healthier - you can use those additional resour
 - 12% less chance to die
 - 17% less chance to have hypertension
 - 16% less chance to have cardiovascular
-- You will be able to [Eat regularly during daylight hours]({{ site.baseurl }}{% link _posts/2022-05-08-eat-regularly.markdown %}) and have 35% longer life
+- You will be able to [Eat regularly during daylight hours]({{ site.baseurl }}{% link _posts/2022-05-08-eat-regularly.markdown %}) and have 30% longer life
 
 
 ### Detailed explanation from neuroscientist Andrew Huberman on how sleep works and how to manage it 
