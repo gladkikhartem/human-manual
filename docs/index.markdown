@@ -19,11 +19,11 @@ Who knows how better your life can be if you'll stop doing wrong things and star
 
 Here's the list of things can help you. Just pick a few that you like and try them out!
 
-## Thing you can to start doing
+## Things you can to start doing
 <div class="datatable-begin"></div>
 - [Manage Your Sleep]({{ site.baseurl }}{% link _posts/2022-05-09-manage-your-sleep.markdown %})     
 - [Eat regularly during daylight hours]({{ site.baseurl }}{% link _posts/2022-05-08-eat-regularly.markdown %}) 
-- [Live in green places]({{ site.baseurl }}{% link _posts/2022-05-09-live-in-green-places.markdown %})
+- [Visit green places more often]({{ site.baseurl }}{% link _posts/2022-05-09-live-in-green-places.markdown %})
 
 <div class="datatable-end"></div>
 
